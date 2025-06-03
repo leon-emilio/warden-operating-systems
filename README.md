@@ -25,7 +25,7 @@ El sistema combina hardware embebido con visión computacional, implementando un
 ### 🎥 Visión por Computadora
 - **Cámara:** USB estándar
 - **Procesamiento:** Computadora con Python 3 instalado
-- **Modelo de detección:** [MediaPipe FaceMesh](https://google.github.io/mediapipe/solutions/face_mesh)
+- **Modelo de detección:** [MediaPipe FaceMesh](https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/face_mesh.md)
 
 ---
 
